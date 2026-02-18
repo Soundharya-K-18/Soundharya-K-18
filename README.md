@@ -1,16 +1,18 @@
 ## Hi there 👋
+ I'm Soundharya K
 
-<!--
-**Soundharya-K-18/Soundharya-K-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 3+ years IT experience transitioning into analytics.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- SQL (Joins, Aggregations, Window Functions)
+- Python (Pandas, NumPy)
+- Power BI & Tableau (Dashboard Development)
+- Excel (Pivot Tables, KPI Analysis)
+- AWS (S3 Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+- E-Commerce Sales Analytics
+- Customer Churn Analysis
+
+📫 Reach me at:ksoundharya90@gmail.com 
+🔗 LinkedIn:www.linkedin.com/in/soundharyak18
