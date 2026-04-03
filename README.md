@@ -8,7 +8,7 @@ Data Analyst with 3+ years IT experience transitioning into analytics.
 - Python (Pandas, NumPy,Matplotlib,Seaborn)
 - Power BI & Tableau (Dashboard Development)
 - Excel (Pivot Tables, KPI Analysis)
-- AWS (S3 Basics)
+- AWS (S3,EC2,Database,VPC Basics)
 
 ## 🔹 Projects
 - E-Commerce Sales Analytics
