@@ -5,7 +5,7 @@ Data Analyst with 3+ years IT experience transitioning into analytics.
 
 ## 🔹 Skills
 - SQL (Joins, Aggregations, Window Functions)
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy,Matplotlib,Seaborn)
 - Power BI & Tableau (Dashboard Development)
 - Excel (Pivot Tables, KPI Analysis)
 - AWS (S3 Basics)
